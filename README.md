@@ -154,7 +154,7 @@ For larger deep learning workloads, GPU acceleration can significantly improve t
 
 ---
 
-# ▶️ Run the Project
+#  Run the Project
 
 Clone the repository:
 
@@ -176,7 +176,7 @@ jupyter notebook
 
 ---
 
-# 📚 Learning Outcomes
+#  Learning Outcomes
 
 By completing this project, the following concepts were practiced:
 
@@ -192,4 +192,4 @@ By completing this project, the following concepts were practiced:
 
 #  GitHub Repository
 
-👉 https://github.com/DPAMIR8781/S18D2-S-Data-tensorflow_demystified
+ https://github.com/DPAMIR8781/S18D2-S-Data-tensorflow_demystified
